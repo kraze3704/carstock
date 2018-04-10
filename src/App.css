@@ -1,5 +1,12 @@
 .App {
-  text-align: center;
+}
+
+.App-body {
+  margin: 20px;
+}
+
+.App-buttonbar {
+  margin: 10px;
 }
 
 .App-logo {
@@ -8,8 +15,9 @@
 }
 
 .App-header {
+  text-align: center;
   background-color: #222;
-  height: 150px;
+  height: 70px;
   padding: 20px;
   color: white;
 }
